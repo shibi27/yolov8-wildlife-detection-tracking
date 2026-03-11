@@ -7,7 +7,6 @@
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-red)
 ![OpenCV](https://img.shields.io/badge/OpenCV-ComputerVision-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 ![Status](https://img.shields.io/badge/Project-Active-success)
 
 </div>

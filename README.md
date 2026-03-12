@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🦁 YOLOv8 Wildlife Detection & Tracking
+# YOLOv8 Wildlife Detection & Tracking
 
 ### Animal Detection, Tracking & Activity Heatmap Generation from Wildlife Videos
 
@@ -13,7 +13,7 @@
 
 ---
 
-# 📌 Overview
+# Overview
 
 This project implements a **wildlife monitoring system** that detects, tracks, and analyzes animals in wildlife videos using **YOLOv8 and Computer Vision**.
 
@@ -29,7 +29,7 @@ This project demonstrates the use of **object detection and computer vision tech
 
 ---
 
-# 🚀 Key Features
+# Key Features
 
 ✔️ Wildlife Detection using **YOLOv8**
 ✔️ Multi-Object Tracking with **Unique IDs**
@@ -41,7 +41,7 @@ This project demonstrates the use of **object detection and computer vision tech
 
 ---
 
-# 🧠 Technologies Used
+# Technologies Used
 
 * Python
 * YOLOv8 (Ultralytics)
@@ -52,7 +52,7 @@ This project demonstrates the use of **object detection and computer vision tech
 
 ---
 
-# 🏗 System Workflow
+# System Workflow
 
 ```text
 Input Wildlife Video
@@ -72,7 +72,7 @@ Annotated Output Video
 
 ---
 
-# 📥 Download YOLOv8 Model
+# Download YOLOv8 Model
 
 The trained model is **not included in this repository** because GitHub restricts large files.
 
@@ -94,7 +94,7 @@ model = YOLO("/content/drive/MyDrive/YoloModels/best.pt")
 
 ---
 
-# ⚠️ Important: Run in Google Colab
+# Important: Run in Google Colab
 
 It is recommended to run this project in **Google Colab** to avoid environment or dependency errors.
 
@@ -108,7 +108,7 @@ Running the notebook in **Google Colab ensures smooth execution**.
 
 ---
 
-# 🚀 Run in Google Colab
+# Run in Google Colab
 
 Open the notebook using the badge below.
 
@@ -116,7 +116,7 @@ Open the notebook using the badge below.
 
 ---
 
-# ⚙️ Setup in Google Colab
+# Setup in Google Colab
 
 ### 1️⃣ Mount Google Drive
 
@@ -162,7 +162,7 @@ MyDrive
 ```
 
 
-# 📊 Output
+# Output
 
 The system generates:
 
@@ -173,13 +173,13 @@ The system generates:
 * Tracking IDs
 * Activity state (Active / Idle)
 
-### 🔥 Wildlife Activity Heatmap
+### Wildlife Activity Heatmap
 
 Heatmaps visualize **areas where animals move the most**.
 
 ---
 
-# 🌍 Applications
+# Applications
 
 * Wildlife Monitoring
 * Forest Surveillance
@@ -189,7 +189,7 @@ Heatmaps visualize **areas where animals move the most**.
 
 ---
 
-# 🔮 Future Improvements
+# Future Improvements
 
 * Real-time wildlife camera monitoring
 * Web dashboard for analysis
